@@ -1,0 +1,447 @@
+{
+  "library": "button-accordion-HN",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/button-accordion-HN",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/button-accordion-hn-opus-48",
+  "branch": "main",
+  "fileCount": 34,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/",
+  "files": [
+    {
+      "file": "Button_Accordion_HN_A4.opus",
+      "name": "Button_Accordion_HN_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_A4.opus",
+      "size": 13729,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_A4_rel.opus",
+      "name": "Button_Accordion_HN_A4_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_A4_rel.opus",
+      "size": 2021,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_A5.opus",
+      "name": "Button_Accordion_HN_A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_A5.opus",
+      "size": 22324,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_A5_rel.opus",
+      "name": "Button_Accordion_HN_A5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_A5_rel.opus",
+      "size": 2054,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B3.opus",
+      "name": "Button_Accordion_HN_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B3.opus",
+      "size": 11413,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B3_rel.opus",
+      "name": "Button_Accordion_HN_B3_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B3_rel.opus",
+      "size": 1638,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B4.opus",
+      "name": "Button_Accordion_HN_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B4.opus",
+      "size": 18406,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B4_rel.opus",
+      "name": "Button_Accordion_HN_B4_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B4_rel.opus",
+      "size": 3137,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B5.opus",
+      "name": "Button_Accordion_HN_B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B5.opus",
+      "size": 18918,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_B5_rel.opus",
+      "name": "Button_Accordion_HN_B5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_B5_rel.opus",
+      "size": 3302,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_C5.opus",
+      "name": "Button_Accordion_HN_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_C5.opus",
+      "size": 17701,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_C5_rel.opus",
+      "name": "Button_Accordion_HN_C5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_C5_rel.opus",
+      "size": 3321,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_C6.opus",
+      "name": "Button_Accordion_HN_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_C6.opus",
+      "size": 27175,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_C6_rel.opus",
+      "name": "Button_Accordion_HN_C6_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_C6_rel.opus",
+      "size": 3302,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D4.opus",
+      "name": "Button_Accordion_HN_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D4.opus",
+      "size": 13065,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D4_rel.opus",
+      "name": "Button_Accordion_HN_D4_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D4_rel.opus",
+      "size": 3271,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D5.opus",
+      "name": "Button_Accordion_HN_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D5.opus",
+      "size": 17861,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D5_rel.opus",
+      "name": "Button_Accordion_HN_D5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D5_rel.opus",
+      "size": 2520,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D6.opus",
+      "name": "Button_Accordion_HN_D6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D6.opus",
+      "size": 13708,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_D6_rel.opus",
+      "name": "Button_Accordion_HN_D6_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_D6_rel.opus",
+      "size": 2384,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_E5.opus",
+      "name": "Button_Accordion_HN_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_E5.opus",
+      "size": 18774,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_E5_rel.opus",
+      "name": "Button_Accordion_HN_E5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_E5_rel.opus",
+      "size": 2261,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_E6.opus",
+      "name": "Button_Accordion_HN_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_E6.opus",
+      "size": 22194,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_E6_rel.opus",
+      "name": "Button_Accordion_HN_E6_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_E6_rel.opus",
+      "size": 2057,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_Fs4.opus",
+      "name": "Button_Accordion_HN_Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_Fs4.opus",
+      "size": 14688,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_Fs4_rel.opus",
+      "name": "Button_Accordion_HN_Fs4_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_Fs4_rel.opus",
+      "size": 2786,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_Fs5.opus",
+      "name": "Button_Accordion_HN_Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_Fs5.opus",
+      "size": 20839,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_Fs5_rel.opus",
+      "name": "Button_Accordion_HN_Fs5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_Fs5_rel.opus",
+      "size": 2047,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G4.opus",
+      "name": "Button_Accordion_HN_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G4.opus",
+      "size": 16574,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G4_rel.opus",
+      "name": "Button_Accordion_HN_G4_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G4_rel.opus",
+      "size": 3526,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G5.opus",
+      "name": "Button_Accordion_HN_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G5.opus",
+      "size": 21071,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G5_rel.opus",
+      "name": "Button_Accordion_HN_G5_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G5_rel.opus",
+      "size": 2195,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G6.opus",
+      "name": "Button_Accordion_HN_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G6.opus",
+      "size": 16152,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Button_Accordion_HN_G6_rel.opus",
+      "name": "Button_Accordion_HN_G6_rel.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/button-accordion-hn-opus-48/main/Button_Accordion_HN_G6_rel.opus",
+      "size": 1998,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "59": [
+      "Button_Accordion_HN_B3.opus",
+      "Button_Accordion_HN_B3_rel.opus"
+    ],
+    "62": [
+      "Button_Accordion_HN_D4.opus",
+      "Button_Accordion_HN_D4_rel.opus"
+    ],
+    "67": [
+      "Button_Accordion_HN_G4.opus",
+      "Button_Accordion_HN_G4_rel.opus"
+    ],
+    "69": [
+      "Button_Accordion_HN_A4.opus",
+      "Button_Accordion_HN_A4_rel.opus"
+    ],
+    "71": [
+      "Button_Accordion_HN_B4.opus",
+      "Button_Accordion_HN_B4_rel.opus"
+    ],
+    "72": [
+      "Button_Accordion_HN_C5.opus",
+      "Button_Accordion_HN_C5_rel.opus"
+    ],
+    "74": [
+      "Button_Accordion_HN_D5.opus",
+      "Button_Accordion_HN_D5_rel.opus"
+    ],
+    "76": [
+      "Button_Accordion_HN_E5.opus",
+      "Button_Accordion_HN_E5_rel.opus"
+    ],
+    "79": [
+      "Button_Accordion_HN_G5.opus",
+      "Button_Accordion_HN_G5_rel.opus"
+    ],
+    "81": [
+      "Button_Accordion_HN_A5.opus",
+      "Button_Accordion_HN_A5_rel.opus"
+    ],
+    "83": [
+      "Button_Accordion_HN_B5.opus",
+      "Button_Accordion_HN_B5_rel.opus"
+    ],
+    "84": [
+      "Button_Accordion_HN_C6.opus",
+      "Button_Accordion_HN_C6_rel.opus"
+    ],
+    "86": [
+      "Button_Accordion_HN_D6.opus",
+      "Button_Accordion_HN_D6_rel.opus"
+    ],
+    "88": [
+      "Button_Accordion_HN_E6.opus",
+      "Button_Accordion_HN_E6_rel.opus"
+    ],
+    "91": [
+      "Button_Accordion_HN_G6.opus",
+      "Button_Accordion_HN_G6_rel.opus"
+    ]
+  }
+}
